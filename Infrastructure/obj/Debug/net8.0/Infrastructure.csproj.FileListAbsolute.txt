@@ -1,0 +1,15 @@
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\gessi\OneDrive\Documentos\projetos\GerenciamentoLeads\GerenciamentoLeads\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
